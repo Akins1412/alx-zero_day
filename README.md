@@ -1,1 +1,1 @@
-My first readme
+We're in this together
